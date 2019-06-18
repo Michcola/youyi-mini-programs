@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/change/change",
+    "pages/history/history"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#333333",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "优意翻译",
+    "backgroundColor": "#2b85e4",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "color": "#375F1B",
+    "selectedColor": "#333333",
+    "backgroundColor": "#f8f8f9",
+    "borderStyle": "white",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "翻译",
+        "iconPath": "images/app.png",
+        "selectedIconPath": "images/app.png"
+      },
+      {
+        "pagePath": "pages/history/history",
+        "text": "历史",
+        "iconPath": "images/notebook.png",
+        "selectedIconPath": "images/notebook.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
