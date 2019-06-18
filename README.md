@@ -6,3 +6,5 @@
 
 # 浏览
 微信搜索小程序 [优意翻译]
+或者扫描二维码
+![欢迎使用](https://github.com/Michcola/youyi-mini-programs/blob/master/images/qrcode.JPG)
